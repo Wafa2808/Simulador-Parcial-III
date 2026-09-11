@@ -1,0 +1,36 @@
+========================================================================
+  REPORTE OFICIAL DE SIMULACIÓN E INTELIGENCIA ARTIFICIAL
+  Problema: Clúster de Servidores (Continua)
+========================================================================
+
+--- 1. MÉTRICAS CLAVE RECOPILADAS ---
+  • Duracion Simulada Horas                      : 4.0
+  • Total Terabytes Procesados                   : 1.6889
+  • Trafico Promedio Gbps                        : 2.98
+  • Temperatura Promedio Celsius                 : 69.82
+  • Temperatura Minima Celsius                   : 69.44
+  • Temperatura Maxima Celsius                   : 70.11
+  • Variabilidad Temperatura Std                 : 0.14
+  • Estabilidad Termica Pct                      : 92.94
+  • Eficiencia Global Promedio Pct               : 89.99
+  • Eventos Estrangulamiento Termico             : 0
+  • Duracion Estrangulamiento Min                : 0.0
+
+--- 2. CONCLUSIÓN Y RECOMENDACIÓN AUTOMATIZADA (IA) ---
+
+=== ANÁLISIS DE INTELIGENCIA ARTIFICIAL (DIAGNÓSTICO AUTOMATIZADO) ===
+
+1. CONCLUSIÓN DE RENDIMIENTO DEL CLÚSTER:
+   Durante el periodo simulado de 4.00 horas, el clúster procesó un total de 1.6889 Terabytes de datos con una eficiencia global promedio del 90.0%.
+
+2. EVALUACIÓN DE ESTABILIDAD TÉRMICA:
+   La temperatura promedio del servidor se mantuvo en 69.82°C (mínima: 69.44°C, máxima: 70.11°C). El sistema permaneció en su rango térmico estable (<=70°C) durante el 92.9% del tiempo, presentando una condición de operación óptima.
+
+3. ANÁLISIS DE ESTRANGULAMIENTO (THERMAL THROTTLING):
+   Se detectaron 0 eventos de estrangulamiento térmico con una duración total de 0.00 minutos.
+
+4. RECOMENDACIONES TÉCNICAS:
+   [✓] El sistema de refrigeración absorbió adecuadamente la carga térmica sin degradar la capacidad de cómputo.
+       Se recomienda mantener la calibración actual de los sensores de refrigeración.
+
+========================================================================

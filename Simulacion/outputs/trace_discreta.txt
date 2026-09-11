@@ -1,0 +1,153 @@
+=== ARCHIVO DE TRAZAS DE SIMULACIÓN ===
+Total de registros: 150
+
+[00:00:00] --- INICIO DE ANIMACIÓN DISCRETA (4.00 HORAS) ---
+[00:03:37] LLEGADA: Órden #1 recibida. En cola: 1
+[00:03:37] ENSAMBLAJE INICIADO: Órden #1 en proceso (9.12 min). Procesadores restantes: 49
+[00:08:34] LLEGADA: Órden #2 recibida. En cola: 1
+[00:10:01] LLEGADA: Órden #3 recibida. En cola: 2
+[00:12:45] ENSAMBLAJE COMPLETADO: Órden #1 lista. Tiempo total en fábrica: 9.12 min.
+[00:12:45] ENSAMBLAJE INICIADO: Órden #2 en proceso (4.17 min). Procesadores restantes: 48
+[00:16:55] ENSAMBLAJE COMPLETADO: Órden #2 lista. Tiempo total en fábrica: 8.34 min.
+[00:16:55] ENSAMBLAJE INICIADO: Órden #3 en proceso (5.94 min). Procesadores restantes: 47
+[00:17:17] LLEGADA: Órden #4 recibida. En cola: 1
+[00:22:51] ENSAMBLAJE COMPLETADO: Órden #3 lista. Tiempo total en fábrica: 12.83 min.
+[00:22:51] ENSAMBLAJE INICIADO: Órden #4 en proceso (2.43 min). Procesadores restantes: 46
+[00:23:28] LLEGADA: Órden #5 recibida. En cola: 1
+[00:25:17] ENSAMBLAJE COMPLETADO: Órden #4 lista. Tiempo total en fábrica: 8.00 min.
+[00:25:17] ENSAMBLAJE INICIADO: Órden #5 en proceso (2.78 min). Procesadores restantes: 45
+[00:28:04] ENSAMBLAJE COMPLETADO: Órden #5 lista. Tiempo total en fábrica: 4.59 min.
+[00:46:43] LLEGADA: Órden #6 recibida. En cola: 1
+[00:46:43] ENSAMBLAJE INICIADO: Órden #6 en proceso (0.33 min). Procesadores restantes: 44
+[00:46:56] LLEGADA: Órden #7 recibida. En cola: 1
+[00:47:03] ENSAMBLAJE COMPLETADO: Órden #6 lista. Tiempo total en fábrica: 0.33 min.
+[00:47:03] ENSAMBLAJE INICIADO: Órden #7 en proceso (3.58 min). Procesadores restantes: 43
+[00:50:38] ENSAMBLAJE COMPLETADO: Órden #7 lista. Tiempo total en fábrica: 3.69 min.
+[00:54:37] LLEGADA: Órden #8 recibida. En cola: 1
+[00:54:37] ENSAMBLAJE INICIADO: Órden #8 en proceso (0.67 min). Procesadores restantes: 42
+[00:55:17] ENSAMBLAJE COMPLETADO: Órden #8 lista. Tiempo total en fábrica: 0.67 min.
+[00:55:28] LLEGADA: Órden #9 recibida. En cola: 1
+[00:55:28] ENSAMBLAJE INICIADO: Órden #9 en proceso (6.97 min). Procesadores restantes: 41
+[01:02:27] ENSAMBLAJE COMPLETADO: Órden #9 lista. Tiempo total en fábrica: 6.97 min.
+[01:11:06] LLEGADA: Órden #10 recibida. En cola: 1
+[01:11:06] ENSAMBLAJE INICIADO: Órden #10 en proceso (1.00 min). Procesadores restantes: 40
+[01:12:06] ENSAMBLAJE COMPLETADO: Órden #10 lista. Tiempo total en fábrica: 1.00 min.
+[01:15:40] LLEGADA: Órden #11 recibida. En cola: 1
+[01:15:40] ENSAMBLAJE INICIADO: Órden #11 en proceso (0.97 min). Procesadores restantes: 39
+[01:16:38] ENSAMBLAJE COMPLETADO: Órden #11 lista. Tiempo total en fábrica: 0.97 min.
+[01:17:41] LLEGADA: Órden #12 recibida. En cola: 1
+[01:17:41] ENSAMBLAJE INICIADO: Órden #12 en proceso (6.25 min). Procesadores restantes: 38
+[01:19:47] LLEGADA: Órden #13 recibida. En cola: 1
+[01:20:16] LLEGADA: Órden #14 recibida. En cola: 2
+[01:23:56] ENSAMBLAJE COMPLETADO: Órden #12 lista. Tiempo total en fábrica: 6.25 min.
+[01:23:56] ENSAMBLAJE INICIADO: Órden #13 en proceso (0.95 min). Procesadores restantes: 37
+[01:24:38] LLEGADA: Órden #15 recibida. En cola: 2
+[01:24:53] ENSAMBLAJE COMPLETADO: Órden #13 lista. Tiempo total en fábrica: 5.10 min.
+[01:24:53] ENSAMBLAJE INICIADO: Órden #14 en proceso (4.54 min). Procesadores restantes: 36
+[01:27:06] LLEGADA: Órden #16 recibida. En cola: 2
+[01:29:25] ENSAMBLAJE COMPLETADO: Órden #14 lista. Tiempo total en fábrica: 9.15 min.
+[01:29:25] ENSAMBLAJE INICIADO: Órden #15 en proceso (5.82 min). Procesadores restantes: 35
+[01:33:41] LLEGADA: Órden #17 recibida. En cola: 2
+[01:35:14] ENSAMBLAJE COMPLETADO: Órden #15 lista. Tiempo total en fábrica: 10.60 min.
+[01:35:14] ENSAMBLAJE INICIADO: Órden #16 en proceso (0.41 min). Procesadores restantes: 34
+[01:35:39] ENSAMBLAJE COMPLETADO: Órden #16 lista. Tiempo total en fábrica: 8.54 min.
+[01:35:39] ENSAMBLAJE INICIADO: Órden #17 en proceso (2.17 min). Procesadores restantes: 33
+[01:37:49] ENSAMBLAJE COMPLETADO: Órden #17 lista. Tiempo total en fábrica: 4.13 min.
+[01:42:22] LLEGADA: Órden #18 recibida. En cola: 1
+[01:42:22] ENSAMBLAJE INICIADO: Órden #18 en proceso (1.84 min). Procesadores restantes: 32
+[01:44:12] ENSAMBLAJE COMPLETADO: Órden #18 lista. Tiempo total en fábrica: 1.84 min.
+[01:46:52] LLEGADA: Órden #19 recibida. En cola: 1
+[01:46:52] ENSAMBLAJE INICIADO: Órden #19 en proceso (4.48 min). Procesadores restantes: 31
+[01:51:21] ENSAMBLAJE COMPLETADO: Órden #19 lista. Tiempo total en fábrica: 4.48 min.
+[01:52:23] LLEGADA: Órden #20 recibida. En cola: 1
+[01:52:23] ENSAMBLAJE INICIADO: Órden #20 en proceso (1.44 min). Procesadores restantes: 30
+[01:53:10] LLEGADA: Órden #21 recibida. En cola: 1
+[01:53:49] ENSAMBLAJE COMPLETADO: Órden #20 lista. Tiempo total en fábrica: 1.44 min.
+[01:53:49] ENSAMBLAJE INICIADO: Órden #21 en proceso (4.82 min). Procesadores restantes: 29
+[01:58:38] ENSAMBLAJE COMPLETADO: Órden #21 lista. Tiempo total en fábrica: 5.48 min.
+[02:00:26] LLEGADA: Órden #22 recibida. En cola: 1
+[02:00:26] ENSAMBLAJE INICIADO: Órden #22 en proceso (2.23 min). Procesadores restantes: 28
+[02:02:40] ENSAMBLAJE COMPLETADO: Órden #22 lista. Tiempo total en fábrica: 2.23 min.
+[02:08:05] LLEGADA: Órden #23 recibida. En cola: 1
+[02:08:05] ENSAMBLAJE INICIADO: Órden #23 en proceso (6.17 min). Procesadores restantes: 27
+[02:11:43] LLEGADA: Órden #24 recibida. En cola: 1
+[02:14:15] ENSAMBLAJE COMPLETADO: Órden #23 lista. Tiempo total en fábrica: 6.17 min.
+[02:14:15] ENSAMBLAJE INICIADO: Órden #24 en proceso (0.99 min). Procesadores restantes: 26
+[02:15:15] ENSAMBLAJE COMPLETADO: Órden #24 lista. Tiempo total en fábrica: 3.54 min.
+[02:18:59] LLEGADA: Órden #25 recibida. En cola: 1
+[02:18:59] ENSAMBLAJE INICIADO: Órden #25 en proceso (13.82 min). Procesadores restantes: 25
+[02:23:22] LLEGADA: Órden #26 recibida. En cola: 1
+[02:23:35] LLEGADA: Órden #27 recibida. En cola: 2
+[02:24:24] LLEGADA: Órden #28 recibida. En cola: 3
+[02:25:13] LLEGADA: Órden #29 recibida. En cola: 4
+[02:27:28] LLEGADA: Órden #30 recibida. En cola: 5
+[02:28:10] LLEGADA: Órden #31 recibida. En cola: 6
+[02:32:48] ENSAMBLAJE COMPLETADO: Órden #25 lista. Tiempo total en fábrica: 13.82 min.
+[02:32:48] ENSAMBLAJE INICIADO: Órden #26 en proceso (1.08 min). Procesadores restantes: 24
+[02:33:53] ENSAMBLAJE COMPLETADO: Órden #26 lista. Tiempo total en fábrica: 10.51 min.
+[02:33:53] ENSAMBLAJE INICIADO: Órden #27 en proceso (1.53 min). Procesadores restantes: 23
+[02:34:31] LLEGADA: Órden #32 recibida. En cola: 5
+[02:35:24] ENSAMBLAJE COMPLETADO: Órden #27 lista. Tiempo total en fábrica: 11.82 min.
+[02:35:24] ENSAMBLAJE INICIADO: Órden #28 en proceso (11.03 min). Procesadores restantes: 22
+[02:39:13] LLEGADA: Órden #33 recibida. En cola: 5
+[02:40:23] LLEGADA: Órden #34 recibida. En cola: 6
+[02:43:34] LLEGADA: Órden #35 recibida. En cola: 7
+[02:44:27] LLEGADA: Órden #36 recibida. En cola: 8
+[02:46:26] ENSAMBLAJE COMPLETADO: Órden #28 lista. Tiempo total en fábrica: 22.03 min.
+[02:46:26] ENSAMBLAJE INICIADO: Órden #29 en proceso (0.37 min). Procesadores restantes: 21
+[02:46:48] ENSAMBLAJE COMPLETADO: Órden #29 lista. Tiempo total en fábrica: 21.58 min.
+[02:46:48] ENSAMBLAJE INICIADO: Órden #30 en proceso (2.19 min). Procesadores restantes: 20
+[02:47:17] LLEGADA: Órden #37 recibida. En cola: 7
+[02:48:59] ENSAMBLAJE COMPLETADO: Órden #30 lista. Tiempo total en fábrica: 21.53 min.
+[02:48:59] ENSAMBLAJE INICIADO: Órden #31 en proceso (1.31 min). Procesadores restantes: 19
+[02:50:18] ENSAMBLAJE COMPLETADO: Órden #31 lista. Tiempo total en fábrica: 22.14 min.
+[02:50:18] ENSAMBLAJE INICIADO: Órden #32 en proceso (8.75 min). Procesadores restantes: 18
+[02:50:57] LLEGADA: Órden #38 recibida. En cola: 6
+[02:52:55] LLEGADA: Órden #39 recibida. En cola: 7
+[02:54:43] LLEGADA: Órden #40 recibida. En cola: 8
+[02:54:47] LLEGADA: Órden #41 recibida. En cola: 9
+[02:55:31] LLEGADA: Órden #42 recibida. En cola: 10
+[02:59:03] ENSAMBLAJE COMPLETADO: Órden #32 lista. Tiempo total en fábrica: 24.53 min.
+[02:59:03] ENSAMBLAJE INICIADO: Órden #33 en proceso (2.54 min). Procesadores restantes: 17
+[03:01:35] ENSAMBLAJE COMPLETADO: Órden #33 lista. Tiempo total en fábrica: 22.37 min.
+[03:01:35] ENSAMBLAJE INICIADO: Órden #34 en proceso (5.10 min). Procesadores restantes: 16
+[03:06:41] ENSAMBLAJE COMPLETADO: Órden #34 lista. Tiempo total en fábrica: 26.30 min.
+[03:06:41] ENSAMBLAJE INICIADO: Órden #35 en proceso (14.42 min). Procesadores restantes: 15
+[03:08:28] LLEGADA: Órden #43 recibida. En cola: 8
+[03:09:25] LLEGADA: Órden #44 recibida. En cola: 9
+[03:12:14] LLEGADA: Órden #45 recibida. En cola: 10
+[03:13:03] LLEGADA: Órden #46 recibida. En cola: 11
+[03:16:14] LLEGADA: Órden #47 recibida. En cola: 12
+[03:21:06] ENSAMBLAJE COMPLETADO: Órden #35 lista. Tiempo total en fábrica: 37.53 min.
+[03:21:06] ENSAMBLAJE INICIADO: Órden #36 en proceso (9.98 min). Procesadores restantes: 14
+[03:23:33] LLEGADA: Órden #48 recibida. En cola: 12
+[03:24:25] LLEGADA: Órden #49 recibida. En cola: 13
+[03:27:23] LLEGADA: Órden #50 recibida. En cola: 14
+[03:27:35] LLEGADA: Órden #51 recibida. En cola: 15
+[03:31:05] ENSAMBLAJE COMPLETADO: Órden #36 lista. Tiempo total en fábrica: 46.62 min.
+[03:31:05] ENSAMBLAJE INICIADO: Órden #37 en proceso (5.29 min). Procesadores restantes: 13
+[03:31:14] LLEGADA: Órden #52 recibida. En cola: 15
+[03:35:04] LLEGADA: Órden #53 recibida. En cola: 16
+[03:36:22] ENSAMBLAJE COMPLETADO: Órden #37 lista. Tiempo total en fábrica: 49.08 min.
+[03:36:22] ENSAMBLAJE INICIADO: Órden #38 en proceso (1.18 min). Procesadores restantes: 12
+[03:37:33] ENSAMBLAJE COMPLETADO: Órden #38 lista. Tiempo total en fábrica: 46.59 min.
+[03:37:33] ENSAMBLAJE INICIADO: Órden #39 en proceso (2.31 min). Procesadores restantes: 11
+[03:39:51] ENSAMBLAJE COMPLETADO: Órden #39 lista. Tiempo total en fábrica: 46.94 min.
+[03:39:51] ENSAMBLAJE INICIADO: Órden #40 en proceso (0.58 min). Procesadores restantes: 10
+[03:40:26] ENSAMBLAJE COMPLETADO: Órden #40 lista. Tiempo total en fábrica: 45.72 min.
+[03:40:26] ENSAMBLAJE INICIADO: Órden #41 en proceso (5.01 min). Procesadores restantes: 9
+[03:40:26] REABASTECIMIENTO SOLICITADO: Stock (9) < Umbral (10). Lote de 50 llegará a los 15.0 min.
+[03:45:27] ENSAMBLAJE COMPLETADO: Órden #41 lista. Tiempo total en fábrica: 50.66 min.
+[03:45:27] ENSAMBLAJE INICIADO: Órden #42 en proceso (0.53 min). Procesadores restantes: 8
+[03:45:59] ENSAMBLAJE COMPLETADO: Órden #42 lista. Tiempo total en fábrica: 50.46 min.
+[03:45:59] ENSAMBLAJE INICIADO: Órden #43 en proceso (6.33 min). Procesadores restantes: 7
+[03:46:34] LLEGADA: Órden #54 recibida. En cola: 11
+[03:52:13] LLEGADA: Órden #55 recibida. En cola: 12
+[03:52:19] ENSAMBLAJE COMPLETADO: Órden #43 lista. Tiempo total en fábrica: 43.85 min.
+[03:52:19] ENSAMBLAJE INICIADO: Órden #44 en proceso (2.40 min). Procesadores restantes: 6
+[03:54:43] ENSAMBLAJE COMPLETADO: Órden #44 lista. Tiempo total en fábrica: 45.30 min.
+[03:54:43] ENSAMBLAJE INICIADO: Órden #45 en proceso (2.45 min). Procesadores restantes: 5
+[03:55:04] LLEGADA: Órden #56 recibida. En cola: 11
+[03:55:26] REABASTECIMIENTO ENTREGADO: +50 procesadores recibidos del proveedor. Nuevo Stock: 55
+[03:57:10] ENSAMBLAJE COMPLETADO: Órden #45 lista. Tiempo total en fábrica: 44.92 min.
+[03:57:10] ENSAMBLAJE INICIADO: Órden #46 en proceso (5.46 min). Procesadores restantes: 54
